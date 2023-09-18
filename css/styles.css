@@ -56,6 +56,10 @@ main > .tagline {
 	font-weight: 160;
         color: #FAFAFA;
 }
+main > .project {
+	font-size: 1rem;
+	text-align:left;
+	color:  #FAFAFA;
 
 .icons-social i {
 	padding: 10px;
