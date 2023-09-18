@@ -73,7 +73,11 @@ margin: 0.3rem 0;
 	width: 2.65rem;
 	height: 2.65rem;
 }
-
+ .project {
+	font-family: 'Reem Kufi' , sans-serif;
+	font-size : 30px;
+	color:#FAFAFA;
+}
 .byRithesh {
   position: absolute;
   bottom: 8px;
